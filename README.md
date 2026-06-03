@@ -1,6 +1,6 @@
 # ML_Project9
 
-Klasifikasi Status Kesehatan Berdasarkan Faktor Gaya Hidup Menggunakan Metode Ensemble Learning
+## Klasifikasi Status Kesehatan Berdasarkan Faktor Gaya Hidup Menggunakan Metode Ensemble Learning
 
 ## Deskripsi Project 
 Klasifikasi Status Kesehatan Berdasarkan Faktor Gaya Hidup adalah sebuah proyek machine learning yang bertujuan untuk memprediksi status kesehatan umum (General Health) seseorang hanya menggunakan indikator non-klinis seperti gaya hidup, kondisi fisik, dan sosiodemografi.
