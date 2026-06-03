@@ -82,3 +82,22 @@ Kategori disederhanakan menjadi:
 
 Model terbaik:
 **CatBoost (62%)**
+
+## Faktor yang Paling Berpengaruh
+Berdasarkan analisis feature importance dan SHAP, beberapa faktor yang paling berkontribusi terhadap prediksi status kesehatan adalah:
+- BMI
+- Weight in Kilograms
+- Physical Activities
+- Sleep Hours
+- Physical Health Days
+- Mental Health Days
+- Difficulty Walking
+Hasil ini menunjukkan bahwa kondisi fisik dan gaya hidup memiliki hubungan yang kuat terhadap status kesehatan umum seseorang.
+
+## Anggota Kelompok
+| Nama | NIM |
+|--------|--------|
+| Kevin Foreman Hutahaean | 24031554095 |
+| Kartika Nur Savira | 24031554049 |
+| Diyanti Pratiwi | 24031554016 |
+
