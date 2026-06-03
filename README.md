@@ -48,3 +48,37 @@ Beberapa algoritma machine learning digunakan dan dibandingkan, yaitu:
 7. Model Evaluation
 Setiap model dievaluasi menggunakan metrik performa yang relevan, kemudian dilakukan perbandingan untuk menentukan model dengan kinerja terbaik.
 
+## Hasil Eksperimen
+
+### Skenario 1 (5 Kelas)
+
+| Model | Accuracy |
+|---------|---------|
+| Logistic Regression | 0.37 |
+| Random Forest | 0.43 |
+| Random Forest Tuned | 0.44 |
+| XGBoost | 0.44 |
+| XGBoost Tuned | 0.45 |
+| CatBoost | 0.46 |
+
+Model terbaik:
+**CatBoost (46%)**
+
+### Skenario 2 (3 Kelas)
+
+Kategori disederhanakan menjadi:
+- Poor
+- Fair
+- Good
+
+| Model | Accuracy |
+|---------|---------|
+| Logistic Regression | 0.59 |
+| Random Forest | 0.60 |
+| Random Forest Tuned | 0.60 |
+| XGBoost | 0.61 |
+| XGBoost Tuned | 0.61 |
+| CatBoost | 0.62 |
+
+Model terbaik:
+**CatBoost (62%)**
