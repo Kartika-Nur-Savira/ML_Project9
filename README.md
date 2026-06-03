@@ -92,6 +92,7 @@ Berdasarkan analisis feature importance dan SHAP, beberapa faktor yang paling be
 - Physical Health Days
 - Mental Health Days
 - Difficulty Walking
+
 Hasil ini menunjukkan bahwa kondisi fisik dan gaya hidup memiliki hubungan yang kuat terhadap status kesehatan umum seseorang.
 
 ## Anggota Kelompok
